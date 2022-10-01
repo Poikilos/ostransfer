@@ -1,0 +1,2 @@
+https://github.com/poikilos/BackupNow/archive/refs/heads/main.zip
+https://github.com/poikilos/blnk/archive/refs/heads/main.zip

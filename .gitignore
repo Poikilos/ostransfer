@@ -127,8 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-/appdata-include-as-config.list
-/appdata-include.list
-/home-include.list
-/localappdata-include.list
-/c-exclude.list
+
+# user-specific files
+*.more
+
+# project-specific files
